@@ -48,6 +48,7 @@ Reading list on deep learning.
 :star::star::star:
 
 * **pix2pix**:Isola, Phillip, et al. "Image-to-image translation with conditional adversarial networks." arXiv preprint (2017).
+
 :star::star::star::star:
 
 * **pix2pixHD**:Wang, Ting-Chun, et al. "High-resolution image synthesis and semantic manipulation with conditional gans." IEEE Conference on Computer Vision and Pattern Recognition (CVPR). Vol. 1. No. 3. 2018.
