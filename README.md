@@ -9,9 +9,6 @@ Reading list on deep learning.
 * **SeNet**:Hu, Jie, Li Shen, and Gang Sun. "Squeeze-and-excitation networks." arXiv preprint arXiv:1709.01507 7 (2017).
 :star::star::star::star::star:
 
-## Semantic segmentation
-
-
 
 ## Shadow Detection and Removal
 * **scGAN**: Nguyen, Vu, et al. "Shadow Detection with Conditional Generative Adversarial Networks." In ICCV.2017. :star::star:
@@ -32,6 +29,9 @@ Reading list on deep learning.
 
 
 ## GAN
+
+
+## Semantic segmentation
 
 
 
