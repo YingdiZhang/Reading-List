@@ -38,7 +38,8 @@ Reading list on deep learning.
 ## GAN
 * **Adversarial Feature Augmentation for Unsupervised Domain Adaptation**:Volpi, Riccardo, et al. "Adversarial feature augmentation for unsupervised domain adaptation." arXiv preprint arXiv:1711.08561 (2017).
 :star::star::star:
-
+* **pix2pixHD**:Wang, Ting-Chun, et al. "High-resolution image synthesis and semantic manipulation with conditional gans." IEEE Conference on Computer Vision and Pattern Recognition (CVPR). Vol. 1. No. 3. 2018.
+:star::star::star::star:
 
 ## Semantic segmentation
 
