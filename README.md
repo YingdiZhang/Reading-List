@@ -79,7 +79,7 @@ Reading list on deep learning.
 
 
 ## Semantic segmentation
-
+...
 
 
 
