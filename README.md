@@ -79,7 +79,8 @@ Reading list on deep learning.
 
 
 ## Semantic segmentation
-...
+* **Pyramid-atten Seg**:Li, Hanchao, et al. "Pyramid Attention Network for Semantic Segmentation." arXiv preprint arXiv:1805.10180 (2018).
+:star::star:
 
 
 
