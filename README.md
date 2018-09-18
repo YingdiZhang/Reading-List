@@ -28,7 +28,16 @@ Reading list on deep learning.
 * **YOLOv3**: Redmon, Joseph, and Ali Farhadi. "YOLOv3: An Incremental Improvement." arXiv preprint arXiv:1804.02767 (2018). :star::star::star:
 
 
+
+## Adversarial Examples
+* **Generative Adversarial Perturbations**:Poursaeed, Omid, et al. "Generative Adversarial Perturbations." arXiv preprint arXiv:1712.02328 (2017).
+:star:
+
+
+
 ## GAN
+* **Adversarial Feature Augmentation for Unsupervised Domain Adaptation**:Volpi, Riccardo, et al. "Adversarial feature augmentation for unsupervised domain adaptation." arXiv preprint arXiv:1711.08561 (2017).
+:star::star::star:
 
 
 ## Semantic segmentation
