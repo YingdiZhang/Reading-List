@@ -1,6 +1,6 @@
 # Reading-List
 Reading list on deep learning. 
-23
+24
 ***
 
 ## Basic Network and Techniques
