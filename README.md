@@ -1,6 +1,6 @@
 # Reading-List
 Reading list on deep learning. 
-21
+22
 ***
 
 ## Basic Network and Techniques
@@ -10,6 +10,8 @@ Reading list on deep learning.
 * **SeNet**:Hu, Jie, Li Shen, and Gang Sun. "Squeeze-and-excitation networks." arXiv preprint arXiv:1709.01507 7 (2017).
 :star::star::star::star::star:
 
+* **VGG**:Simonyan, Karen, and Andrew Zisserman. "Very deep convolutional networks for large-scale image recognition." arXiv preprint arXiv:1409.1556 (2014).
+:star::star::star::star::star:
 
 
 ## Shadow Detection and Removal
