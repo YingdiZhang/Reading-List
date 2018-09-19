@@ -84,5 +84,9 @@ Reading list on deep learning.
 * **Pyramid-atten Seg**:Li, Hanchao, et al. "Pyramid Attention Network for Semantic Segmentation." arXiv preprint arXiv:1805.10180 (2018).
 :star::star:
 
+* **TernausNet**:Iglovikov, Vladimir, and Alexey Shvets. "TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation." arXiv preprint arXiv:1801.05746 (2018).
+:star::star::star:
+
+
 
 
