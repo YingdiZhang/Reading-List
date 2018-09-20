@@ -1,6 +1,6 @@
 # Reading-List
 Reading list on deep learning. 
-24
+25
 ***
 
 ## Basic Network and Techniques
@@ -87,6 +87,8 @@ Reading list on deep learning.
 * **TernausNet**:Iglovikov, Vladimir, and Alexey Shvets. "TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation." arXiv preprint arXiv:1801.05746 (2018).
 :star::star::star:
 
+* **Attention U-net**:Oktay, Ozan, et al. "Attention U-Net: Learning Where to Look for the Pancreas." arXiv preprint arXiv:1804.03999 (2018).
+:star::star:
 
 
 ## Attention
