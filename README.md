@@ -1,6 +1,6 @@
 # Reading-List
 Reading list on deep learning. 
-26
+27
 ***
 
 ## Basic Network and Techniques
@@ -87,8 +87,8 @@ Reading list on deep learning.
 * **TernausNet**:Iglovikov, Vladimir, and Alexey Shvets. "TernausNet: U-Net with VGG11 Encoder Pre-Trained on ImageNet for Image Segmentation." arXiv preprint arXiv:1801.05746 (2018).
 :star::star::star:
 
-* **Attention U-net**:Oktay, Ozan, et al. "Attention U-Net: Learning Where to Look for the Pancreas." arXiv preprint arXiv:1804.03999 (2018).
-:star::star:
+* **FCN**:Long, Jonathan, Evan Shelhamer, and Trevor Darrell. "Fully convolutional networks for semantic segmentation." Proceedings of the IEEE conference on computer vision and pattern recognition. 2015.
+:star::star::star:
 
 
 
@@ -96,6 +96,8 @@ Reading list on deep learning.
 * **Unet**: Ronneberger, Olaf, Philipp Fischer, and Thomas Brox. "U-net: Convolutional networks for biomedical image segmentation." International Conference on Medical image computing and computer-assisted intervention. Springer, Cham, 2015.
 :star::star::star::star::star:
 
+* **Attention U-net**:Oktay, Ozan, et al. "Attention U-Net: Learning Where to Look for the Pancreas." arXiv preprint arXiv:1804.03999 (2018).
+:star::star:
 
 ## Attention
 * **CBAM**:"CBAM: Convolutional Block Attention Module"Sanghyun Woo , Jongchan Park , Joon-Young Lee, In So Kweon; The European Conference on Computer Vision (ECCV), 2018, pp. 3-19
