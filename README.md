@@ -1,6 +1,6 @@
 # Reading-List
 Reading list on deep learning. 
-29
+30
 ***
 
 ## Basic Network and Techniques
@@ -108,6 +108,11 @@ Reading list on deep learning.
 * **CBAM**:"CBAM: Convolutional Block Attention Module"Sanghyun Woo , Jongchan Park , Joon-Young Lee, In So Kweon; The European Conference on Computer Vision (ECCV), 2018, pp. 3-19
 :star::star::star::star:
 
+
+
+## Books
+* **解析卷积神经网络**： 魏秀参
+:star::star::star:
 
 
 
