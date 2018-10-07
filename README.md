@@ -1,6 +1,6 @@
 # Reading-List
 Reading list on deep learning. 
-27
+28
 ***
 
 ## Basic Network and Techniques
@@ -99,6 +99,8 @@ Reading list on deep learning.
 * **Attention U-net**:Oktay, Ozan, et al. "Attention U-Net: Learning Where to Look for the Pancreas." arXiv preprint arXiv:1804.03999 (2018).
 :star::star:
 
+* **thressholding for..**:Fortin, Maryse, et al. "Evaluation of an automated thresholding algorithm for the quantification of paraspinal muscle composition from MRI images." Biomedical engineering online 16.1 (2017): 61.
+:star::star:
 ## Attention
 * **CBAM**:"CBAM: Convolutional Block Attention Module"Sanghyun Woo , Jongchan Park , Joon-Young Lee, In So Kweon; The European Conference on Computer Vision (ECCV), 2018, pp. 3-19
 :star::star::star::star:
