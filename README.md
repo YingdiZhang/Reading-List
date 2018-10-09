@@ -1,6 +1,6 @@
 # Reading-List
 Reading list on deep learning. 
-31
+32
 ***
 
 ## Basic Network and Techniques
@@ -105,9 +105,12 @@ Reading list on deep learning.
 * **Evaluate thresholding algorothem**:Fortin, Maryse, et al. "Evaluation of an automated thresholding algorithm for the quantification of paraspinal muscle composition from MRI images." Biomedical engineering online 16.1 (2017): 61.
 :star:
 
-
 * **基于深度学习的全自动心肌分割算法研究**:北京交通大学 2018.3 硕士学位论文
 :star::star:
+
+* **Unet++**:Zhou, Zongwei, et al. "UNet++: A Nested U-Net Architecture for Medical Image Segmentation." Deep Learning in Medical Image Analysis and Multimodal Learning for Clinical Decision Support. Springer, Cham, 2018. 3-11.
+:star::star:
+
 ## Attention
 * **CBAM**:"CBAM: Convolutional Block Attention Module"Sanghyun Woo , Jongchan Park , Joon-Young Lee, In So Kweon; The European Conference on Computer Vision (ECCV), 2018, pp. 3-19
 :star::star::star::star:
