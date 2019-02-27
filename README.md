@@ -1,6 +1,6 @@
 # Reading-List
 Reading list on deep learning. 
-32
+33
 ***
 
 ## Basic Network and Techniques
@@ -115,7 +115,9 @@ Reading list on deep learning.
 * **CBAM**:"CBAM: Convolutional Block Attention Module"Sanghyun Woo , Jongchan Park , Joon-Young Lee, In So Kweon; The European Conference on Computer Vision (ECCV), 2018, pp. 3-19
 :star::star::star::star:
 
-
+## Pathological Image Analysis
+* **Detecting Cancer Metastases**: Liu, Yun, et al. "Detecting cancer metastases on gigapixel pathology images." arXiv preprint arXiv:1703.02442 (2017).
+:star::star:
 
 ## Books
 * **解析卷积神经网络**： 魏秀参
