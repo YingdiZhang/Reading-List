@@ -1,6 +1,6 @@
 # Reading-List
 Reading list on deep learning. 
-33
+34
 ***
 
 ## Basic Network and Techniques
@@ -119,6 +119,8 @@ Reading list on deep learning.
 * **Detecting Cancer Metastases**: Liu, Yun, et al. "Detecting cancer metastases on gigapixel pathology images." arXiv preprint arXiv:1703.02442 (2017).
 :star::star:
 
+* **Pathologist-level clasification**: Wei, Jason W., et al. "Pathologist-level classification of histologic patterns on resected lung adenocarcinoma slides with deep neural networks." arXiv preprint arXiv:1901.11489 (2019).
+:star::star:
 ## Books
 * **解析卷积神经网络**： 魏秀参
 :star::star::star:
