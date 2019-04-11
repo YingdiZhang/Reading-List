@@ -1,6 +1,6 @@
 # Reading-List
 Reading list on deep learning. 
-34
+35
 ***
 
 ## Basic Network and Techniques
@@ -121,6 +121,9 @@ Reading list on deep learning.
 
 * **Pathologist-level clasification**: Wei, Jason W., et al. "Pathologist-level classification of histologic patterns on resected lung adenocarcinoma slides with deep neural networks." arXiv preprint arXiv:1901.11489 (2019).
 :star::star:
+
+* **Cancer Metastasis Detection With Neural Conditional Random Field**：Li, Yi, and Wei Ping. "Cancer metastasis detection with neural conditional random field." arXiv preprint arXiv:1806.07064 (2018).
+:star::star::star:
 ## Books
 * **解析卷积神经网络**： 魏秀参
 :star::star::star:
