@@ -38,6 +38,7 @@ Reading list on deep learning.
 * **YOLOv3**: Redmon, Joseph, and Ali Farhadi. "YOLOv3: An Incremental Improvement." arXiv preprint arXiv:1804.02767 (2018). :star::star::star:
 
 * **RetinaNet**：Lin, Tsung-Yi, et al. "Focal loss for dense object detection." Proceedings of the IEEE international conference on computer vision. 2017.
+:star::star::star:
 
 ## Adversarial Examples
 * **Generative Adversarial Perturbations**:Poursaeed, Omid, et al. "Generative Adversarial Perturbations." arXiv preprint arXiv:1712.02328 (2017).
