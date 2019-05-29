@@ -1,6 +1,6 @@
 # Reading-List
 Reading list on deep learning. 
-36
+37
 ***
 
 ## Basic Network and Techniques
@@ -39,6 +39,9 @@ Reading list on deep learning.
 
 * **RetinaNet**：Lin, Tsung-Yi, et al. "Focal loss for dense object detection." Proceedings of the IEEE international conference on computer vision. 2017.
 :star::star::star:
+
+* **CenterNet**：‘’Objects as points“” 
+:star::star::star::star:
 
 ## Adversarial Examples
 * **Generative Adversarial Perturbations**:Poursaeed, Omid, et al. "Generative Adversarial Perturbations." arXiv preprint arXiv:1712.02328 (2017).
