@@ -1,6 +1,6 @@
 # Reading-List
 Reading list on deep learning. 
-37
+38
 ***
 
 ## Basic Network and Techniques
@@ -42,6 +42,9 @@ Reading list on deep learning.
 
 * **CenterNet**：‘’Objects as points“” 
 :star::star::star::star:
+
+* **Borrow from Anywhere**：Devaguptapu, Chaitanya, et al. "Borrow from Anywhere: Pseudo Multi-modal Object Detection in Thermal Imagery." arXiv preprint arXiv:1905.08789 (2019).
+:star::star::star:
 
 ## Adversarial Examples
 * **Generative Adversarial Perturbations**:Poursaeed, Omid, et al. "Generative Adversarial Perturbations." arXiv preprint arXiv:1712.02328 (2017).
